@@ -1,0 +1,305 @@
+[
+    {
+        "image_path": "C:\\Users\\Mahika\\Desktop\\cv_gai\\data\\test\\images\\20250813_125134_jpg.rf.2e020b53718d168892193af00ce2dd75.jpg",
+        "timestamp": "2025-10-26T08:23:12.578624",
+        "location": {
+            "latitude": 19.113,
+            "longitude": 72.869
+        },
+        "detections": [
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    758,
+                    448,
+                    1048,
+                    924
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:\\Users\\Mahika\\Desktop\\cv_gai\\data\\test\\images\\20250813_125408-1-_jpg.rf.d1641235c0a5f79ae1522ed4e7db36d2.jpg",
+        "timestamp": "2025-10-26T08:23:12.601411",
+        "location": {
+            "latitude": 19.113,
+            "longitude": 72.869
+        },
+        "detections": [
+            {
+                "class": "potholes",
+                "bbox": [
+                    472,
+                    703,
+                    1076,
+                    1439
+                ]
+            }
+        ]
+    },
+
+    {
+        "image_path": "C:\\Users\\Mahika\\Desktop\\cv_gai\\data\\test\\images\\20250905_163016_jpg.rf.06068543445948142e1b2e3c8fe1e212.jpg",
+        "timestamp": "2025-10-26T08:23:12.658358",
+        "location": {
+            "latitude": 18.9897,
+            "longitude": 73.1160
+        },
+        "detections": [
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    921,
+                    18,
+                    1659,
+                    828
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    -191,
+                    527,
+                    485,
+                    1263
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    696,
+                    118,
+                    1076,
+                    736
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    145,
+                    175,
+                    227,
+                    221
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    675,
+                    976,
+                    1071,
+                    1256
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:\\Users\\Mahika\\Desktop\\cv_gai\\data\\test\\images\\20250905_172824_jpg.rf.14f89c46396e45e49c28e2f4f0d61a9e.jpg",
+        "timestamp": "2025-10-26T08:23:12.684919",
+        "location": {
+            "latitude": 19.1196,
+            "longitude": 72.8460
+        },
+        "detections": [
+            {
+                "class": "potholes",
+                "bbox": [
+                    892,
+                    901,
+                    1150,
+                    1075
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    699,
+                    839,
+                    863,
+                    933
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    770,
+                    461,
+                    956,
+                    671
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    1188,
+                    473,
+                    1636,
+                    869
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    1138,
+                    83,
+                    1308,
+                    197
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    891,
+                    224,
+                    1111,
+                    404
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    839,
+                    357,
+                    899,
+                    415
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    337,
+                    1418,
+                    1107,
+                    2046
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    151,
+                    1148,
+                    317,
+                    1290
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    564,
+                    1260,
+                    794,
+                    1412
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    -46,
+                    1277,
+                    444,
+                    1625
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    -58,
+                    935,
+                    150,
+                    1153
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:\\Users\\Mahika\\Desktop\\cv_gai\\data\\test\\images\\20250906_173859_jpg.rf.2005ddfa0392f0c12933e26477926236.jpg",
+        "timestamp": "2025-10-26T08:23:12.700935",
+        "location": {
+            "latitude": 19.2173,
+            "longitude": 73.0936
+        },
+        "detections": [
+            {
+                "class": "potholes",
+                "bbox": [
+                    531,
+                    1534,
+                    743,
+                    1724
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    35,
+                    1421,
+                    235,
+                    1563
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    630,
+                    1344,
+                    796,
+                    1472
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    533,
+                    885,
+                    657,
+                    943
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    415,
+                    1346,
+                    491,
+                    1398
+                ]
+            },
+            {
+                "class": "potholes",
+                "bbox": [
+                    994,
+                    1183,
+                    1094,
+                    1287
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    397,
+                    1222,
+                    513,
+                    1316
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    509,
+                    1134,
+                    645,
+                    1252
+                ]
+            },
+            {
+                "class": "not-pothole",
+                "bbox": [
+                    472,
+                    1156,
+                    518,
+                    1240
+                ]
+            }
+        ]
+    }
+]
