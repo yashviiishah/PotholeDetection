@@ -1,0 +1,32 @@
+===== OLLAMA LETTER (Local Authority) =====
+Here is a formal complaint letter:
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Email ID]
+[Phone Number]
+[Date]
+
+The Hon'ble Municipal Commissioner
+Local Authority
+[Authority's Address]
+[City, State]
+
+Subject: Request for Repair of Pothole at Critical Location
+
+Dear Sir/Madam,
+
+I am writing to bring to your attention a pressing concern regarding a pothole on one of our city's major roads. After conducting a thorough survey, I have identified the location as follows:
+
+Latitude: 19.2173
+Longitude: 73.0936
+
+This pothole has been causing considerable inconvenience to commuters, particularly during peak hours. The road surface is severely damaged, resulting in uneven driving conditions and potential hazards for cyclists and pedestrians.
+
+I respectfully request that you take immediate action to repair this pothole as soon as possible. Prompt attention to this matter will not only ensure public safety but also help maintain the overall infrastructure of our city.
+
+Thanking you for your prompt response and action on this pressing issue,
+
+Yours faithfully,
+[Your Name]

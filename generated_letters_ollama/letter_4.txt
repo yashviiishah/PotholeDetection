@@ -1,0 +1,22 @@
+===== OLLAMA LETTER (BMC (Mumbai)) =====
+Here is the formal complaint letter:
+
+[BMC Office Address]
+Bombay Municipal Corporation
+Maharashtra, India
+
+[Date]
+
+Subject: Pothole at [Latitude]: 19.1196, [Longitude]: 72.846 - Request for Immediate Repair
+
+Dear Sir/Madam,
+
+I am writing to bring to your attention a pothole that has been detected at the specified location of Latitude: 19.1196 and Longitude: 72.846 on one of the busy roads in our city. This pothole is causing significant inconvenience to commuters, including pedestrians, cyclists, and motorists, as it poses a hazard and discomforts their travel experience.
+
+I kindly request that your team inspect this location at the earliest and take immediate action to repair or fill up the pothole. The timely rectification of this issue would greatly appreciate the efforts made by the BMC towards providing a safe and smooth transportation infrastructure for the citizens of Mumbai.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+[Your Name]
