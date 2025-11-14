@@ -24,7 +24,7 @@ This project presents an end-to-end pothole detection and reporting system that:
 
 4) Create a user-facing Streamlit interface that:
 
-*Accepts image/video uploads.
+* Accepts image/video uploads.
 
 * Performs detection.
 
@@ -33,9 +33,9 @@ This project presents an end-to-end pothole detection and reporting system that:
 # Methodology / Architecture
 * Data Pipeline
 
-1) Raw Image Collection (~170 images, in-house).
+1) Raw Image Collection (~170 images).
 
-2) Image Cleaning & Annotation.
+2) Image Annotation.
 
 3) Synthetic Augmentation using GANs for diversity and class balance.
 
@@ -47,7 +47,7 @@ This project presents an end-to-end pothole detection and reporting system that:
 
 2) Transfer Learning: Fine-tune the best YOLOv8 model on Roboflow data.
 
-3) Transformer Comparison: Train a RETDTR model for benchmarking.
+3) Transformer Comparison: Train a ReTDTR model for benchmarking.
 
 4) Model Selection: Based on performance, latency, and model size.
 
