@@ -94,19 +94,19 @@ This project presents an end-to-end pothole detection and reporting system that:
 
 * Metrics
 
-1) Detection Performance:
-   mAP@0.5, mAP@[0.5:0.95], Precision, Recall, F1-score, IoU, False Positive Rate
-
-2) Operational Efficiency:
-   Inference latency (CPU/GPU/edge device), model size, memory usage
-
-3) Robustness
-   AUC under different environments (day/night, wet/dry), cross-dataset mAP drop
-
-4) End-to-End Performance
-   * Letter generation accuracy (presence of required fields)
-   * Human review quality scores
-   * Successful report delivery rate
+   1) Detection Performance:
+      mAP@0.5, mAP@[0.5:0.95], Precision, Recall, F1-score, IoU, False Positive Rate
+   
+   2) Operational Efficiency:
+      Inference latency (CPU/GPU/edge device), model size, memory usage
+   
+   3) Robustness
+      AUC under different environments (day/night, wet/dry), cross-dataset mAP drop
+   
+   4) End-to-End Performance
+      * Letter generation accuracy (presence of required fields)
+      * Human review quality scores
+      * Successful report delivery rate
 
 # Results
 Figure	Description
